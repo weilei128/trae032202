@@ -1,0 +1,10 @@
+server:
+  port: 10011
+
+spring:
+  application:
+    name: accounting-system
+
+app:
+  data:
+    path: ./data
